@@ -1,4 +1,4 @@
-# Bandit-Challenges
+# Bandit Challenges
 
 Level 0
 
